@@ -1,0 +1,68 @@
+<resources>
+    <!--=============== APPLICATION ===============-->
+
+    <string name="app_name">TourGuideApp</string>
+
+    <!--=============== SCREENS ===============-->
+
+    <string name="activity_main__neighborhood">Bairro:</string>
+    <string name="activity_main__description">Descrição:</string>
+
+    <string name="activity_main__squares_tab">Praças</string>
+    <string name="activity_main__parks_tab">Parques</string>
+    <string name="activity_main__monuments_tab">Monumentos</string>
+    <string name="activity_main__food_tab">Gastronomia</string>
+
+    <string name="activity_main__square_spain">Praça da Espanha</string>
+    <string name="activity_main__square_japan">Praça do Japão</string>
+    <string name="activity_main__square_osorio">Praça General Osório</string>
+    <string name="activity_main__square_rui">Praça Rui Barbosa</string>
+
+    <string name="activity_main__park_bacacheri">Parque Bacacheri</string>
+    <string name="activity_main__park_barigui">Parque Barigui</string>
+    <string name="activity_main__park_lourenco">Parque São Lourenço</string>
+    <string name="activity_main__park_tangua">Parque Tanguá</string>
+
+    <string name="activity_main__monument_botanico">Jardim Botânico</string>
+    <string name="activity_main__monument_niemeyer">Museu Oscar Niemeyer</string>
+    <string name="activity_main__monument_arame">Ópera de Arame</string>
+    <string name="activity_main__monument_guaira">Teatro Guaíra</string>
+
+    <string name="activity_main__food_chateau">Chateau du Gazon</string>
+    <string name="activity_main__food_antonio">Restaurante Dom Antônio</string>
+    <string name="activity_main__food_alemao">Bar do Alemão</string>
+    <string name="activity_main__food_madalosso">Restaurante Madalosso</string>
+
+    <string name="activity_main__neighborhood_batel">Batel</string>
+    <string name="activity_main__neighborhood_agua_verde">Água Verde</string>
+    <string name="activity_main__neighborhood_centro">Centro</string>
+    <string name="activity_main__neighborhood_bacacheri">Bacacheri</string>
+    <string name="activity_main__neighborhood_santo_inacio">Santo Inacio</string>
+    <string name="activity_main__neighborhood_sao_lourenco">São Lourenço</string>
+    <string name="activity_main__neighborhood_pilarzinho">Pilarzinho</string>
+    <string name="activity_main__neighborhood_jardim_botanico">Jardim Botânico</string>
+    <string name="activity_main__neighborhood_centro_civico">Centro Cívico</string>
+    <string name="activity_main__neighborhood_abranches">Abranches</string>
+    <string name="activity_main__neighborhood_santa_felicidade">Santa Felicidade</string>
+    <string name="activity_main__neighborhood_sao_francisco">São Francisco</string>
+
+    <string name="activity_main__square_spain__description">A Praça da Espanha é um espaço cultural que atrai crianças, jovens e adultos. Sábado é o dia de mais movimento no local por causa da Feira de Antiguidades, Exposição de Carros, atividades de pintura para crianças, prática de yôga e shows de música.\n\nA \"Feira de Antiguidades\" reúne 18 barracas que vendem diversos objetos para colecionadores como selos, flâmulas, eletrodomésticos das décadas de 1960 e 1970, carrinhos em miniatura, brinquedos e jogos infantis, além de revistas e publicações antigas, entre outros. Já a Exposição de Carros conta com a presença de aproximadamente 30 veículos que marcaram as décadas passadas.</string>
+    <string name="activity_main__square_japan__description">Inspirada nos clássicos jardins japoneses, a Praça do Japão é uma homenagem de Curitiba aos imigrantes da terra do sol nascente. Há uma imponente réplica do Templo Dourado de Kyoto, com 11 metros de altura, e com uma garça em bronze no topo da casa doada por uma comitiva japonesa da cidade de Hijemi durante uma visita a Curitiba em 1994.\n\nO local abriga a Casa da Cultura (biblioteca de literatura nipo-brasileira) e uma loja de artesanato com destaques aos origamis, daruma (símbolo da persistência confeccionado sem olhos, que quando pintados simbolizam que um desejo foi alcançado), kaeru (sapinho da sorte, que geralmente é carregado na bolsa para atrair dinheiro), tsuru (pássaro de origami) e maneki neko (gato da fortuna, que acena com uma das patas e que atrai felicidade e alegria).</string>
+    <string name="activity_main__square_osorio__description">Com área de 12.700m² a Praça Osório é ponto de referência na história de Curitiba. O local possui bustos de poetas paranaenses e uma placa em pedra que representa a luta pelas \"Diretas Já\" de 1984. Com extensa área verde, conta com um chafariz (um cisne e sereias, peças que foram trazidas da França), um relógio redondo que fica sobre um pedestal (e que representa o horário oficial de Curitiba), cancha poliesportiva, pista de cooper com 178m (que funciona como ciclovia, pista de skate e patins), mesas de xadrez, playground, banheiros públicos (4 masculinos, 4 femininos e 1 para deficientes físicos), posto da polícia militar e ponto de táxi. Na praça também está 2 bancas de revistas e jornais e 2 cafés, que vendem lanches e bebidas diversas.</string>
+    <string name="activity_main__square_rui__description">Na Praça Rui Barbosa esta localizado o principal terminal de transporte urbano, unificando várias linhas de ônibus do centro da capital com alguns dos mais importantes bairros, além da principal Rua da Cidadania de Curitiba, que oferece serviços populares de restaurante, várias lojas comerciais e uma unidade da URBS e o prédio histórico da Santa Casa de Misericórdia de Curitiba.\n\nSeu terreno era um descampado, no qual existia uma vertente conhecida como Olho D\'Água dos Sapos, que foi canalizada até um chafariz pelo engenheiro Antônio Rebouças, inaugurado em 1871 no Largo da Ponte (atual Praça Zacarias).</string>
+
+    <string name="activity_main__park_bacacheri__description">O Parque Bacacheri, oficialmente chamado de Parque Iberê de Matos, é um local de lazer para famílias, além de prática de esportes. O local conta com uma pista de cooper e ciclovia, que fica em volta de um lago artificial com 22 mil m², duas canchas de areia para prática de futebol e voleibol, equipamentos de ginástica, playground e uma lanchonete que comercializa água, sucos, refrigerantes, bebidas alcoólicas, doces e salgados diversos.</string>
+    <string name="activity_main__park_barigui__description">Além de ser o mais visitado de Curitiba, o Parque Barigui é também o terceiro maior parque da cidade com área total de 1.400.000m². Entre as principais atrações estão 3 pistas de cooper e ciclovias com extensões de 3300, 2850 e 1045 metros. Há 25 quiosques cobertos com churrasqueiras de concreto que podem ser ocupados gratuitamente por ordem de chegada e em qualquer dia. Possui 3 bosques, nos quais estão localizadas diversas espécies de árvores e plantas como araucárias, erva-mate, pitangueira, vassourão-branco, bromélia, orquídea, mirta, guabirotuba e guabiroba.\n\nHá também trilhas para caminhar em meio à mata. O local também possui animais que caminham livres pelos bosques e áreas comuns do parque como garça-branca, quero-quero, tico-tico, biguatinga, preá, capivara, cutia, sagüi e gambá.</string>
+    <string name="activity_main__park_lourenco__description">O Parque São Lourenço une esportes, cultura, lazer e natureza em um mesmo lugar. Já funcionou no local uma fábrica. Ainda hoje, é possível observar a chaminé do antigo estabelecimento. O parque foi feito após uma inundação, em 1970, na represa do rio Belém, que hoje forma o lago do parque. Conta com pista de cooper e caminhada, ciclovia, pista de rolimã, equipamentos de ginástica e playground. O parque ainda abriga o Centro de Criatividade de Curitiba (que possui espaço para exposições e oferece atividades artísticas, além de cursos para crianças, jovens e adultos), a Casa Museu Erbo Stenzel e o teatro Cleon Jaccques.</string>
+    <string name="activity_main__park_tangua__description">Com 235.000m², o Parque Tanguá está situado em uma área com pedreiras desativadas. Hoje, é destinado ao lazer. O local foi anteriormente abrigo de uma usina de reciclagem de caliça e lixo industrial. Possui uma pista de cooper, ciclovia, um túnel que passa em meio a uma rocha que une dois lagos, com cerca de 50 metros de extensão, cascata e um ancoradouro. Por dentro do túnel há uma passarela de madeira, que leva os visitantes até um mirante.\n\nO espaço possui ainda dez quiosques com churrasqueiras de concreto gratuitas que podem ser ocupadas por ordem de chegada.</string>
+
+    <string name="activity_main__monument_botanico__description">O Jardim Botânico de Curitiba é uma área protegida, constituída por coleções de plantas vivas, cientificamente reconhecidas, organizadas e identificadas, com a finalidade de estudo, pesquisa e documentação do patrimônio florístico do País, em especial da flora paranaense.\n\nContribui na preservação e conservação da natureza, para a educação ambiental, na formação de espaços representativos da flora brasileira e ainda oferece uma alternativa de lazer para a população.\n\n\nDos seus 178 mil metros quadrados, mais de 40% de sua área total corresponde a um Bosque de Preservação Permanente, com nascentes formadoras dos lagos.</string>
+    <string name="activity_main__monument_niemeyer__description">O Museu Oscar Niemeyer possui um complexo de dois prédios, instalado em uma área de 35 mil metros quadrados (dos quais 19 mil dedicados à área de exposições), é um verdadeiro exemplo da Arquitetura aliada à Arte.\n\nO primeiro prédio foi projetado por Oscar Niemeyer em 1967, fiel ao estilo da época, concebido como um Instituto de Educação. Este edifício possui o segundo maior vão livre do Brasil, com 65m. Foi reformado e adaptado à função de museu, para o qual Niemeyer projetou o anexo, lembrando um olho, imprimindo-lhe uma nova identidade característica.</string>
+    <string name="activity_main__monument_arame__description">A Ópera de Arame é um teatro feito de tubos de aço e estruturas metálicas, coberto com placas transparentes de policarbonato, lembrando a fragilidade de uma construção em arame. De forma circular, a edificação é quase toda cercada por um lago artificial, de maneira que o acesso ao auditório é feito por uma passarela sobre as águas.\n\nAs estruturas metálicas tubulares, totalizando 360 toneladas de aço, e os 2.400 bancos de tela de arame foram fornecidas pela Brafer Construções Metálicas, empresa de Araucária, na Região Metropolitana de Curitiba.</string>
+    <string name="activity_main__monument_guaira__description">O Guaíra é um dos maiores e mais importantes teatros da América Latina. Possui 3 auditórios: o Bento Munhoz da Rocha, com capacidade para 2173 lugares, auditório Salvador de Ferrante (Guairinha), com 504, e o auditório Glauco Flores de Sá Brito, com 113 lugares.\n\nA história do Teatro Guaíra começa no século 19. Em 1884 foi inaugurado o Theatro São Theodoro, na Rua Nova, atual rua Dr. Muricy. Era o primeiro teatro oficial do Paraná. Durante a Revolução Federalista, de 1893 a 1895, as atividades do teatro foram suspensas e suas instalações utilizadas como prisão.\n\nEm 1900, o teatro foi reinaugurado com o nome de Teatro Guayrá, mas foi demolido em 1935. A construção do prédio atual do Guaíra foi iniciada em 1952 e concluída em 1974.</string>
+
+    <string name="activity_main__food_chateau__description">O Château de Gazon é especializado em fondue e serve tanto no rodízio como à la carte. São 14 variedades, que incluem opções de foundue na pedra, como o de carne, e fondues doces.\n\nEntre as opções à la carte estão pratos com peixe, pato e mignon. As sugestões são: Filé Camember (mignon grelhado com molho de vinho acompanhado de massa ao molho quatro queijos) e Pato com Amoras (com molho de amoras, purês de maçã e repolho roxo). Para a sobremesa, fondue de toblerone e tiramissu com oito frutas. O restaurante conta com uma carta de vinhos com mais de 200 rótulos.</string>
+    <string name="activity_main__food_antonio__description">Um restaurante ímpar com 550 vagas para automóveis e que pode receber até 2.000 pessoas sentadas em eventos diversos. Possui vários salões para vários eventos. O Dom Antônio é uma marca em Santa Felicidade.\n\nO Rodízio Menu é composto de fígado de galinha, risoto, polenta, frango prensado, salada, frango a passarinho, maionese, spaghetti, nhoque, lasanha na manteiga, caneloni de carne, rondeli de espinafre e ricota, conchiglioni de brócolis e frango, maminha na chapa ou gratinada, lingüiça, lombinho, lasanha de salame italiano à bolonhesa ou ao sugo.</string>
+    <string name="activity_main__food_alemao__description">O Bar do Alemão é um dos locais mais tradicionais do Largo da Ordem. A decoração do ambiente é rústica, como uma típica taberna alemã, e conta com fotografias e pôsteres sobre a Alemanha nas paredes.\n\nA música ambiente também é proveniente do país europeu. No cardápio estão pratos da culinária alemã como o Eisbein (joelho de porco acompanhado por salsicha vermelha, salada e chucrute) e o Marreco Recheado (o recheio conta com miúdos do marreco, repolho roxo, salada e purê de maçã).</string>
+    <string name="activity_main__food_madalosso__description">O Madalosso é um dos restaurantes mais tradicionais de Curitiba e o maior da América Latina.\n\nFamoso por seu rodízio de comida típica italiana, oferece 14 pratos tradicionais como risoto, nhoque, polenta, lasanha, espaguete, rondelli e canelone, entre outros. Como opções de sobremesa estão tortas, profiteroles, salada de frutas, pudins e creme de papaia com licor de cassis.</string>
+</resources>
