@@ -29,10 +29,10 @@ public class DataItems {
     };
 
     public static final int[] IMAGE = new int[] {
-        R.mipmap.praca_da_espanha, R.mipmap.praca_do_japao, R.mipmap.praca_osorio, R.mipmap.praca_rui_barbosa,
-        R.mipmap.parque_bacacheri, R.mipmap.parque_barigui, R.mipmap.parque_sao_lourenco, R.mipmap.parque_tangua,
-        R.mipmap.jardim_botanico, R.mipmap.museu_oscar_niemeyer, R.mipmap.opera_de_arame, R.mipmap.teatro_guaira,
-        R.mipmap.chateau_du_gazon, R.mipmap.dom_antonio, R.mipmap.bar_do_alemao, R.mipmap.madalosso
+        R.drawable.praca_da_espanha, R.drawable.praca_do_japao, R.drawable.praca_osorio, R.drawable.praca_rui_barbosa,
+        R.drawable.parque_bacacheri, R.drawable.parque_barigui, R.drawable.parque_sao_lourenco, R.drawable.parque_tangua,
+        R.drawable.jardim_botanico, R.drawable.museu_oscar_niemeyer, R.drawable.opera_de_arame, R.drawable.teatro_guaira,
+        R.drawable.chateau_du_gazon, R.drawable.dom_antonio, R.drawable.bar_do_alemao, R.drawable.madalosso
     };
 
     public static final int[] NEIGHBORHOOD = new int[] {

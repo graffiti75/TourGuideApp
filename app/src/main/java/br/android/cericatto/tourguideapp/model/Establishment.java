@@ -29,48 +29,22 @@ public class Establishment {
     }
 
     //--------------------------------------------------
-    // To String
-    //--------------------------------------------------
-
-    @Override
-    public String toString() {
-        return "Establishment{" +
-            "imageId=" + imageId +
-            ", nameId=" + nameId +
-            ", neighborhoodId=" + neighborhoodId +
-            ", descriptionId=" + descriptionId +
-            '}';
-    }
-
-    //--------------------------------------------------
     // Getters and Setters
     //--------------------------------------------------
 
     public int getImageId() {
         return imageId;
     }
-    public void setImageId(int imageId) {
-        this.imageId = imageId;
-    }
 
     public int getNameId() {
         return nameId;
-    }
-    public void setNameId(int nameId) {
-        this.nameId = nameId;
     }
 
     public int getNeighborhoodId() {
         return neighborhoodId;
     }
-    public void setNeighborhoodId(int neighborhoodId) {
-        this.neighborhoodId = neighborhoodId;
-    }
 
     public int getDescriptionId() {
         return descriptionId;
-    }
-    public void setDescriptionId(int descriptionId) {
-        this.descriptionId = descriptionId;
     }
 }
